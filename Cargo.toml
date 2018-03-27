@@ -2,6 +2,8 @@
 name = "get-year"
 version = "0.1.0"
 authors = ["Adam Kelly <adamkelly2201@gmail.com>"]
+licence = "MIT"
+description = "Get the year from a YYYY-MM-DD Formatted Data"
 
 [dependencies]
 regex = "0.2.8"

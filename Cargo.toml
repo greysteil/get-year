@@ -2,7 +2,7 @@
 name = "get-year"
 version = "0.1.0"
 authors = ["Adam Kelly <adamkelly2201@gmail.com>"]
-licence = "MIT"
+license = "MIT"
 description = "Get the year from a YYYY-MM-DD Formatted Data"
 
 [dependencies]
